@@ -1,13 +1,13 @@
 
 
 body{
-    width: 90vw;
+    width: 100vw;
     height: 100vh;
     
 }
 
 #mainheading{
- width: 900%; 
+ width: 00%; 
  height: 200%;  
  
  
@@ -33,9 +33,9 @@ body{
 }
 #mainh{
     width: 90%;
-    min-width:600Px;
-    height: 400px;
-    min-height: 100px;
+    min-width:300Px;
+    height: 500px;
+    min-height: 200px;
 }
 
 #mainpage{
@@ -44,7 +44,7 @@ body{
     text-align: center;
 }
 #boder{
-    border: 5px solid orangered;
+    border: 3px solid orangered;
     border-radius: 10px;
     text-align: center;  
     display: inline-block;
@@ -139,7 +139,7 @@ h2{
         color: blue;
        }
        #maincop{
-        width:200px;
+        width:100px;
         min-width:100px;
         height: 100px;
         min-height: 100px;
